@@ -21,3 +21,4 @@ palindrome('madam')
 palindrome('madam')
 palindrome('nurses run')
 #print(result)
+EOF
